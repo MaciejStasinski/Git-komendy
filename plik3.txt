@@ -1,0 +1,12 @@
+ Volume in drive D is DATA
+ Volume Serial Number is D2CB-E934
+
+ Directory of D:\Programowanie\Git\Git-komendy
+
+26.11.2020  13:46    <DIR>          .
+26.11.2020  13:46    <DIR>          ..
+26.11.2020  13:37                 0 plik1.txt
+26.11.2020  13:38                 0 plik2.txt
+26.11.2020  13:46                 0 plik3.txt
+               3 File(s)              0 bytes
+               2 Dir(s)  149ÿ822ÿ775ÿ296 bytes free
